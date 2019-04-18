@@ -1,0 +1,10 @@
+C:\Users\Fadime Acikgoz\Desktop\SeleniumTestTool\SeleniumTestTool\bin\Debug\netcoreapp2.1\SeleniumTestTool.deps.json
+C:\Users\Fadime Acikgoz\Desktop\SeleniumTestTool\SeleniumTestTool\bin\Debug\netcoreapp2.1\SeleniumTestTool.runtimeconfig.json
+C:\Users\Fadime Acikgoz\Desktop\SeleniumTestTool\SeleniumTestTool\bin\Debug\netcoreapp2.1\SeleniumTestTool.runtimeconfig.dev.json
+C:\Users\Fadime Acikgoz\Desktop\SeleniumTestTool\SeleniumTestTool\bin\Debug\netcoreapp2.1\SeleniumTestTool.dll
+C:\Users\Fadime Acikgoz\Desktop\SeleniumTestTool\SeleniumTestTool\obj\Debug\netcoreapp2.1\SeleniumTestTool.csproj.CoreCompileInputs.cache
+C:\Users\Fadime Acikgoz\Desktop\SeleniumTestTool\SeleniumTestTool\obj\Debug\netcoreapp2.1\SeleniumTestTool.AssemblyInfoInputs.cache
+C:\Users\Fadime Acikgoz\Desktop\SeleniumTestTool\SeleniumTestTool\obj\Debug\netcoreapp2.1\SeleniumTestTool.AssemblyInfo.cs
+C:\Users\Fadime Acikgoz\Desktop\SeleniumTestTool\SeleniumTestTool\bin\Debug\netcoreapp2.1\SeleniumTestTool.pdb
+C:\Users\Fadime Acikgoz\Desktop\SeleniumTestTool\SeleniumTestTool\obj\Debug\netcoreapp2.1\SeleniumTestTool.dll
+C:\Users\Fadime Acikgoz\Desktop\SeleniumTestTool\SeleniumTestTool\obj\Debug\netcoreapp2.1\SeleniumTestTool.pdb
